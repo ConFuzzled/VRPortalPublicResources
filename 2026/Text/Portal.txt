@@ -1,0 +1,26 @@
+<size=120%><b>Friday</b></size>
+
+<b>20:00</b> Opening
+<b>22:00</b> Avali Meet
+<b>02:00</b> Portal Closes
+
+<size=120%><b>Saturday</b></size>
+
+<b>10:00</b> Opening
+<b>15:00</b> World Creators
+<b>21:00</b> Wickers, Nardos & Novas
+<b>02:00</b> Portal Closes
+
+<size=120%><b>Sunday</b></size>
+
+<b>10:00</b> Opening
+<b>15:00</b> Newbies to VR
+<b>21:00</b> Avatar & Asset Creators
+<b>02:00</b> Portal Closes
+
+<size=120%><b>Monday</b></size>
+
+<b>10:00</b> Opening
+<b>15:00</b>Dragons, Monsters & Beasts
+<b>21:00</b> Synthetic Critters
+<b>02:00</b> Portal Closes for 2026
