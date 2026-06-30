@@ -21,6 +21,6 @@
 <size=120%><b>Monday</b></size>
 
 <b>10:00</b> Opening
-<b>15:00</b>Dragons, Monsters & Beasts
+<b>15:00</b >Dragons, Monsters & Beasts
 <b>21:00</b> Synthetic Critters
 <b>02:00</b> Portal Closes for 2026

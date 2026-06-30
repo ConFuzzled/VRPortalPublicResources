@@ -1,19 +1,14 @@
-<size=120%><b>Friday</b></size>
-
-<b>22:00</b> Techno Skunk - 80s/90s
-<b>23:00</b> Sylvix - Future House/Garage
-<b>00:00</b> Yunas - Chiptunes & Electro House
-<b>01:00</b> Harry's World - Liquid & Funk Drum and Bass
-<b>02:00</b> CFzTV Closes
-
-<size=120%><b>Saturday</b></size>
-
-<i>More details to follow!</i>
-
-<size=120%><b>Sunday</b></size>
-
-<i>More details to follow!</i>
-
 <size=120%><b>Monday</b></size>
 
-<i>More details to follow!</i>
+<b>18:30 till 21:00</b> Fursuit Dance Competition
+<b>22:00</b> Nightclub! - <i>Dogstorm</i> - Tech House / Bass House / Mainstage and Techno
+<b>23:00</b> <i>Meowmix</i> - GenreFunky
+<b>00:00</b> <i>Volonus</i> - Psytrance & Trance
+<b>01:00</b> <i>Shovel</i> - DnB & Jungle
+<b>02:00</b> CFzTV Closes
+
+<size=120%><b>Tuesday</b></size>
+
+<b>13:00 till 14:00</b> Closing Ceremony
+<b>20:00</b> Nightclub! - Dead Dog - The end of convention party!
+<b>00:00</b> CFzTV Closes for 2026
