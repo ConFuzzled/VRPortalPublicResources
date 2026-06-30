@@ -1,12 +1,3 @@
-<size=120%><b>Monday</b></size>
-
-<b>18:30 till 21:00</b> Fursuit Dance Competition
-<b>22:00</b> Nightclub! - <i>Dogstorm</i> - Tech House / Bass House / Mainstage and Techno
-<b>23:00</b> <i>Meowmix</i> - GenreFunky
-<b>00:00</b> <i>Volonus</i> - Psytrance & Trance
-<b>01:00</b> <i>Shovel</i> - DnB & Jungle
-<b>02:00</b> CFzTV Closes
-
 <size=120%><b>Tuesday</b></size>
 
 <b>13:00 till 14:00</b> Closing Ceremony
